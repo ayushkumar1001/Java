@@ -9,6 +9,7 @@ public class FindNumberWordsString {
         String words[]=str.split("\\s");
 
         System.out.println(words.length);
+        
     }
     
 }
