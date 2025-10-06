@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class SearchingAnElement {
 
     public static void main(String args[]) {
@@ -13,11 +14,12 @@ public class SearchingAnElement {
 
         for (int i = 0; i < A.length; i++) {
             if (key == A[i]) {
-                System.out.println("Element Found at :" + i);
-                System.exit(0);
+                System.out.println("Element Found at : " + i);
+               System.exit(0);
             }
         }
         System.out.println("Not Found");
+        
     }
 
 }
