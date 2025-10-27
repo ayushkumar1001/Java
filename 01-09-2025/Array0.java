@@ -23,14 +23,17 @@ public class Array0 {   // 1 Dimension Array;
         // B[2] = 15;
         // for(int X:B)
         // {
-        //     System.out.println(X);
+        //     System.out.println(X++);
+        // }
+        // {
+        //     System.out.println(x);
         // }
 
         // Counter Controlled for Loop.
         // B[2]=15;  
         // for(int i=0;i<B.length;i++)
         // {
-        //     System.out.println(B[i]++);
+        //     System.out.println(B[i]++); // Result will be 1,2,15,5,6.
         // }
         // for(int X:B)
         // {

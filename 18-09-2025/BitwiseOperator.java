@@ -10,7 +10,8 @@ public class BitwiseOperator {
 
         //z=x&y;
        //z=x|y;
-       //z=x^y;
+       //z=x^y;+
+       
 
       // int x=0b1;
       //int x=-0b1010;

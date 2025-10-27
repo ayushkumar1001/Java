@@ -1,0 +1,12 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.dropIntoEditor.enabled": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.aiStats.enabled": false,
+    "editor.hover.enabled": false,
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    }
+}

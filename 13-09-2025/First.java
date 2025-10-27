@@ -1,16 +1,15 @@
-import java.util.Scanner;
-class First {
-     public static void main(String args[])
-     {
-        String name;
+import java.util.*;
 
-        Scanner sc=new Scanner(System.in);
+public class First {
+   public static void main(String args[]) {
 
-        System.out.println("May I Know Your Name");
-        name=sc.nextLine();
+      Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome "+name);
-     }
+      String name;
+
+      System.out.println("May I know Your Name");
+      name = sc.nextLine();
+
+      System.out.println("Welcome " + name);
+   }
 }
-
-

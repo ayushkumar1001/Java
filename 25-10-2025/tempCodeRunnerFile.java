@@ -1,0 +1,1 @@
+System.out.println(isPrime("19 is prime"));

@@ -57,7 +57,7 @@ public class SecondDArray1 {
 
         // int []D[]=new int[5] [5];
 
-        // int [] E,F[];
+        // int [] E,F[]; // F is 2D Dimension
 
         // int [] G,H,I,J;
 

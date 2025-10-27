@@ -21,8 +21,8 @@ public class DataSizeRange {
 
         long longValue1 = 2L;
         long longValue2 = 4L;
-        long longResult = longValue1 + longValue2;
-
+        long longResult = longValue1 + longValue2; 
+ 
         System.out.println("Long: " + longResult);
 
         float floatValue1 = 2.0f;
@@ -35,7 +35,7 @@ public class DataSizeRange {
         double doubleValue2 = 4.0;
         double doubleResult = doubleValue1 + doubleValue2;
 
-        System.out.println("Double: " + doubleResult);
+        System.out.println("Double: " + doubleResult); 
 
         boolean booleanValue = true;
 
