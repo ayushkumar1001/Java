@@ -8,5 +8,8 @@
 
         "configurations": [],
         "compounds": []
-    }
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ]
 }
