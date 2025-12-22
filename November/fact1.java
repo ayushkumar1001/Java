@@ -13,7 +13,9 @@ public class fact1 {
         {
             fact=fact*i;
         }
-        System.out.println(fact );
+        System.out.println(fact);
     }
     
 }
+
+ 
